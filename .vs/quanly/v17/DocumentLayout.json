@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\VanBang2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|solutionrelative:quanly\\VanBang2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\quanly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|solutionrelative:quanly\\quanly.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\quanly.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|solutionrelative:quanly\\quanly.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\ChinhQui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|solutionrelative:quanly\\ChinhQui.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\infomation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|solutionrelative:quanly\\infomation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\Meny.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|solutionrelative:quanly\\Meny.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\sinhvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|solutionrelative:quanly\\sinhvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\khoa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4B3C27F5-FE37-444A-815F-CD0839227B06}|quanly\\quanly.vcxproj|solutionrelative:quanly\\khoa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sinhvien.h",
+              "DocumentMoniker": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\sinhvien.h",
+              "RelativeDocumentMoniker": "quanly\\sinhvien.h",
+              "ToolTip": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\sinhvien.h",
+              "RelativeToolTip": "quanly\\sinhvien.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T09:02:21.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VanBang2.h",
+              "DocumentMoniker": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\VanBang2.h",
+              "RelativeDocumentMoniker": "quanly\\VanBang2.h",
+              "ToolTip": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\VanBang2.h",
+              "RelativeToolTip": "quanly\\VanBang2.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T08:09:37.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Meny.cpp",
+              "DocumentMoniker": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\Meny.cpp",
+              "RelativeDocumentMoniker": "quanly\\Meny.cpp",
+              "ToolTip": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\Meny.cpp",
+              "RelativeToolTip": "quanly\\Meny.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-29T14:07:54.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "infomation.h",
+              "DocumentMoniker": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\infomation.h",
+              "RelativeDocumentMoniker": "quanly\\infomation.h",
+              "ToolTip": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\infomation.h",
+              "RelativeToolTip": "quanly\\infomation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-29T08:24:47.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quanly.h",
+              "DocumentMoniker": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\quanly.h",
+              "RelativeDocumentMoniker": "quanly\\quanly.h",
+              "ToolTip": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\quanly.h",
+              "RelativeToolTip": "quanly\\quanly.h",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAFAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-28T13:51:59.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChinhQui.h",
+              "DocumentMoniker": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\ChinhQui.h",
+              "RelativeDocumentMoniker": "quanly\\ChinhQui.h",
+              "ToolTip": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\ChinhQui.h",
+              "RelativeToolTip": "quanly\\ChinhQui.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-25T02:48:54.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "khoa.h",
+              "DocumentMoniker": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\khoa.h",
+              "RelativeDocumentMoniker": "quanly\\khoa.h",
+              "ToolTip": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\khoa.h",
+              "RelativeToolTip": "quanly\\khoa.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-25T02:39:40.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "quanly.cpp",
+              "DocumentMoniker": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\quanly.cpp",
+              "RelativeDocumentMoniker": "quanly\\quanly.cpp",
+              "ToolTip": "D:\\HoangHa_nam2_HK1\\OOP\\quanlysinhvien\\quanly\\quanly\\quanly.cpp",
+              "RelativeToolTip": "quanly\\quanly.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T02:38:33.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
